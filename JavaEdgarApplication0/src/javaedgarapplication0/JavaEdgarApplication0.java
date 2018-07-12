@@ -25,6 +25,7 @@ public class JavaEdgarApplication0 {
         System.out.println("Ponete VIVO que quiero hacer un pull COMPADRE");
         System.out.println("Ya era hora man");
         System.out.println("te  dicen el 667 porque te pasaste de bestia");
+        System.out.println("Ese sos vos compadre");
         }
     
 }
