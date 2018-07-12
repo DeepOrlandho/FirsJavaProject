@@ -23,7 +23,7 @@ public class JavaEdgarApplication0 {
         System.out.println("Buena onda karnal");
         System.out.println("En el mar la vida es mas sabrosa");
         System.out.println("Ponete VIVO que quiero hacer un pull COMPADRE");
-        
+        System.out.println("Ya era hora man");
         }
     
 }
