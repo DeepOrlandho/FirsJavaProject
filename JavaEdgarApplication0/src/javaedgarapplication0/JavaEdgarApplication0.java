@@ -17,6 +17,8 @@ public class JavaEdgarApplication0 {
     public static void main(String[] args) {
         
         System.out.println("Guatemala Inmortal!");
+        System.out.println("Andate al repositorio");
+        System.out.println("Ya llegué");
         }
     
 }
