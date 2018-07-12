@@ -12,6 +12,7 @@ package paqueteNuevo;
 public class otraClase {
     
    private int codigo;
+   private  int codigol;
    
     
 }
