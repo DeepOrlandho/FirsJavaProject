@@ -11,5 +11,7 @@ package paqueteNuevo;
  */
 public class otraClase {
     
+   private int codigo;
+   
     
 }
