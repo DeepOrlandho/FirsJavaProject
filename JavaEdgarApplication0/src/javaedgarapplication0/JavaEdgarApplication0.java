@@ -26,6 +26,7 @@ public class JavaEdgarApplication0 {
         System.out.println("Ya era hora man");
         System.out.println("te  dicen el 667 porque te pasaste de bestia");
         System.out.println("Ese sos vos compadre");
+        System.out.println("f5f5 copiado copiado repito copiado");
         }
     
 }
